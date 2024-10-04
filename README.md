@@ -1,13 +1,8 @@
 - 👋 Hi, I’m @lukemcelligott
 - 👀 I’m interested in ...
-   - Cybersecurity Topics
-   - C++, JavaScript, HTML, Python...
-   - Linux
-- 🌱 I’m currently learning ...
-   - Java
-   - Angular
-- 💞️ I’m looking to collaborate on ...
-   - Cybersecurity-related projects
+   - web development
+   - python projects
+   - sql
 - 📫 How to reach me ...
    - LinkedIn: https://www.linkedin.com/in/luke-mcelligott/
 
